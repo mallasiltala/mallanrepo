@@ -1,0 +1,49 @@
+[33mcommit bf93cf3f528744e2a8822ef326e4efc2ce2f8550[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: ”Malla <bht061@myy.haaga-helia.fi>
+Date:   Fri Sep 5 17:54:08 2025 +0300
+
+    Revert "Testimuutos"
+    
+    This reverts commit 976b585b1d57268cb978ed3ee4dea6f89b6b0d67.
+
+[33mcommit 976b585b1d57268cb978ed3ee4dea6f89b6b0d67[m
+Author: ”Malla <bht061@myy.haaga-helia.fi>
+Date:   Fri Sep 5 17:53:33 2025 +0300
+
+    Testimuutos
+
+[33mcommit 2eaa3ed8ea29414770952959a335de76b7afc511[m
+Author: ”Malla <bht061@myy.haaga-helia.fi>
+Date:   Fri Sep 5 17:40:23 2025 +0300
+
+    Lisätty file1.txt ja file2.html
+
+[33mcommit 28fe5ce7643356980483c6dfd9e4f221b4e8bfc9[m
+Author: ”Malla <bht061@myy.haaga-helia.fi>
+Date:   Fri Sep 5 17:39:40 2025 +0300
+
+    Poistettu test.txt, koska se ei enää ole tarpeellinen
+
+[33mcommit 8692b982ba43dc09de38147443d8a5b36ecde63b[m
+Author: ”Malla <bht061@myy.haaga-helia.fi>
+Date:   Fri Sep 5 17:39:12 2025 +0300
+
+    Nimetty hello.html uudelleen index.html:ksi
+
+[33mcommit a28269d09c1422518e806af2e95ce2c9e8fcc6ad[m
+Author: ”Malla <bht061@myy.haaga-helia.fi>
+Date:   Fri Sep 5 17:36:52 2025 +0300
+
+    Muokattu hello.html: lisätty h1-merkkaus
+
+[33mcommit 2c8e0904a018e1f3ad2a1cac4b2dc445017070f3[m
+Author: ”Malla <bht061@myy.haaga-helia.fi>
+Date:   Fri Sep 5 17:31:23 2025 +0300
+
+    Lisätty hello.html
+
+[33mcommit 8bb4b4c50722bbc27868876ec49e6274a9367c06[m
+Author: ”Malla <bht061@myy.haaga-helia.fi>
+Date:   Fri Sep 5 17:28:55 2025 +0300
+
+    Lisätty test.txt
